@@ -43,15 +43,6 @@ git clone https://github.com/ansuljain789/AlgoKart-Assignment.git
 cd AlgoKart-Assignment
 ```
 
----
-
-## 📥 2. Install Dependencies
-
-```bash
-npm install
-```
-
----
 
 ## ▶️ 3. Start the Chat Server
 
