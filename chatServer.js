@@ -1,11 +1,9 @@
-
-
 const net = require('net');
 
 // Configuration
 const argvPort = process.argv[2] && Number(process.argv[2]);
 const PORT = argvPort || parseInt(process.env.PORT, 10) || 4000;
-const IDLE_TIMEOUT_SEC = parseInt(process.env.IDLE_TIMEOUT_SEC, 10) || 60; 
+const IDLE_TIMEOUT_SEC = parseInt(process.env.IDLE_TIMEOUT_SEC, 10) || 120; 
 
 // users: Map username -> { socket, idleTimer }
 const users = new Map();

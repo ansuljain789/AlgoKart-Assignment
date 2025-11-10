@@ -1,5 +1,3 @@
-
-
 # 💬 Real-Time Terminal Chat Application (WebSocket + Node.js)
 
 This is a real-time chat application meant for terminal use — no browser required!  
@@ -117,21 +115,9 @@ MSG Hi Amaan!
 
 ---
 
-## 🎥 6. Screen Recording (Mandatory for Submission)
+## 🎥 6. Screen Recording
 
-**Record the following:**
-- Starting the server
-- Connecting at least 2 clients
-- Logging in and sending messages
-
-**Recommended tool (Windows):**
-- Press `Windows + G` → Use the built-in Screen Recorder
-
-**Upload video** to Google Drive
-
----
-
-**📹 Recording Link:** `<paste-here>`
+**📹 Recording Link:** `https://drive.google.com/file/d/15N1KMFT8ytd7oqL6-a-1w7zhFLHr--TS/view?usp=sharing`
 
 ---
 
